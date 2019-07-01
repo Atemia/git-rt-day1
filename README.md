@@ -1,4 +1,5 @@
 # Residential Training course day1
+***
 ## Git and git hub
 ---
 **Content covered**
