@@ -1,7 +1,8 @@
 # Residential Training course day1
 ## Git and git hub
+---
 **Content covered**
-Version control
+- Version control
 - Git
 Platforms
 - Git hub
@@ -18,7 +19,7 @@ Markdown practical
             done
             echo "there are $counter items in your directory"
             ```
-
+---
 ### README.md
 EANBiT residential trainning by  [caleb kibet](https://github.com/kipkurui?org=eanbit-rt2019&year_list=1)
 ![CKibet](https://miro.medium.com/max/3150/0*-zoy9XiC-5V5bYvX.jpeg)
