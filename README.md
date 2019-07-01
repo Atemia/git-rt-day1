@@ -11,14 +11,16 @@ Platforms
 >Practicals
 Markdown practical
 1. python code `print("Hello, Python world")`
-2. bash code ```bash
+2. bash code 
+
+```bash
             counter=0
             for word in $(ls);
             do
               counter+=1
             done
             echo "there are $counter items in your directory"
-            ```
+```
 ---
 ### README.md
 EANBiT residential trainning by  [caleb kibet](https://github.com/kipkurui?org=eanbit-rt2019&year_list=1)
