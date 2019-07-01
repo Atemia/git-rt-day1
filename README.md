@@ -11,7 +11,7 @@ Platforms
 -[Markdown Syntax](https://wishx.github.io/docs/)
 >Practicals
 Markdown practical
-1. python code `print("Hello, Python world")`
+1. python code `python print("Hello, Python world")`
 2. bash code 
 
 ```bash
