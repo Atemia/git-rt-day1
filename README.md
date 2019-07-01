@@ -1,2 +1,2 @@
 # git-rt-day1
-EAMBiT residentail trainning day1
+EANBiT residential trainning day1
