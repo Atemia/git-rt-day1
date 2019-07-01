@@ -22,6 +22,6 @@ Markdown practical
             echo "there are $counter items in your directory"
 ```
 ---
-### README.md
+### [README.md](README.md)
 EANBiT residential trainning by  [caleb kibet](https://github.com/kipkurui?org=eanbit-rt2019&year_list=1)
 ![CKibet](https://miro.medium.com/max/3150/0*-zoy9XiC-5V5bYvX.jpeg)
