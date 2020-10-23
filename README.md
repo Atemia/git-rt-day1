@@ -34,6 +34,7 @@ Platforms
             -`as contributer`
 - Git on Local machine
             - `git clean sheet`
+ Thanks for this
 ---
 ### [README.md](README.md)
 EANBiT residential trainning by  [Caleb Kibet](https://github.com/kipkurui?org=eanbit-rt2019&year_list=1)
