@@ -27,7 +27,7 @@ Platforms
             echo "there are $counter items in your directory"
 ```
 - Contributing and collaborating on git hub
-            -`branches`
+            
             -`pull requests`
             -`creating issues and assigning`
             -`as collaborater`
